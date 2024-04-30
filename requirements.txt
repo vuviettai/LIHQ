@@ -7,10 +7,10 @@ yapf #GFPGAN
 basicsr>=1.3.4.0 #GFPGAN
 facexlib>=0.2.0.3 #GFPGAN
 addict #GFPGAN
-PyYAML==5.1 #FOMM
+PyYAML==6.0.1 #FOMM
 einops #Tortoise
 entmax #Tortoise
-transformers #Tortoise
+transformers==4.31.0 #Tortoise
 unidecode #Tortoise
 rotary_embedding_torch #Tortoise
 pydub
